@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/weired-robots/static/css/main.a467e1dc.chunk.css",
+    "main.js": "/weired-robots/static/js/main.f5a6c470.chunk.js",
+    "main.js.map": "/weired-robots/static/js/main.f5a6c470.chunk.js.map",
+    "runtime-main.js": "/weired-robots/static/js/runtime-main.169e8815.js",
+    "runtime-main.js.map": "/weired-robots/static/js/runtime-main.169e8815.js.map",
+    "static/js/2.20f71596.chunk.js": "/weired-robots/static/js/2.20f71596.chunk.js",
+    "static/js/2.20f71596.chunk.js.map": "/weired-robots/static/js/2.20f71596.chunk.js.map",
+    "index.html": "/weired-robots/index.html",
+    "precache-manifest.744a2b9bc8d10accbaffdcae33745bdd.js": "/weired-robots/precache-manifest.744a2b9bc8d10accbaffdcae33745bdd.js",
+    "service-worker.js": "/weired-robots/service-worker.js",
+    "static/css/main.a467e1dc.chunk.css.map": "/weired-robots/static/css/main.a467e1dc.chunk.css.map",
+    "static/js/2.20f71596.chunk.js.LICENSE.txt": "/weired-robots/static/js/2.20f71596.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.169e8815.js",
+    "static/js/2.20f71596.chunk.js",
+    "static/css/main.a467e1dc.chunk.css",
+    "static/js/main.f5a6c470.chunk.js"
+  ]
+}
